@@ -1,3 +1,0 @@
-## About Us
-
-NepToken is a lightweight web application built using Python and Flask that focuses on token generation and backend processing. The project demonstrates API communication, server-side logic, and deployment on PythonAnywhere, making it a practical example of modern web application architecture.
