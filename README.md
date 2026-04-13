@@ -75,10 +75,8 @@ User → Request Token → Backend Generates Token → Queue Updated → User Wa
 ## 🔮 Future Enhancements
 
 * 📱 SMS/WhatsApp token alerts
-* 📊 Live queue tracking dashboard
 * 🔔 Notification when turn is near
 * 🤖 AI-based waiting time prediction
-* 📍 Location-based queue system
 
 ---
 
