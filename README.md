@@ -11,7 +11,7 @@
 NepToken is a smart web-based platform designed to **eliminate long waiting times and physical queues** by assigning digital tokens to users.
 
 Instead of standing in line, users can **generate a token online and wait remotely**, improving efficiency, convenience, and user experience in crowded environments.
-![App Screenshot](Images/screenshot.png)
+![App Screenshot](Images/Landing_page.png)
 
 ---
 
