@@ -1,6 +1,6 @@
 #  NepToken
 
-###  Smart Queue Management System Using Token Technology
+###  Smart Queue Management System Based On Token 
 
  **Live Demo:** https://neptoken.pythonanywhere.com/
 
